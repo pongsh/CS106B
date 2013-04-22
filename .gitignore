@@ -1,0 +1,5 @@
+*.exe
+*test
+*.in
+*.out
+*.txt

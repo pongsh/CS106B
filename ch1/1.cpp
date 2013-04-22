@@ -4,11 +4,11 @@
 using namespace std;
 
 int main() {
-	double celcius;
+    double celcius;
 
-	while (cin >> celcius) {
-		cout << celcius << " degrees celcius is " << 9.0/5.0*celcius+32 << " degrees fahrenheit." << endl;
-	}
+    while (cin >> celcius) {
+        cout << celcius << " degrees celcius is " << 9.0/5.0*celcius+32 << " degrees fahrenheit." << endl;
+    }
     
-	return 0;
+    return 0;
 }
